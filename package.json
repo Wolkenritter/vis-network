@@ -1,15 +1,15 @@
 {
-  "name": "vis-network",
+  "name": "bc-vis-network",
   "version": "0.0.0-no-version",
   "description": "A dynamic, browser-based visualization library.",
-  "homepage": "https://visjs.github.io/vis-network/",
+  "homepage": "https://github.com/Wolkenritter/vis-network",
   "license": "(Apache-2.0 OR MIT)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visjs/vis-network.git"
+    "url": "https://github.com/Wolkenritter/vis-network.git"
   },
   "bugs": {
-    "url": "https://github.com/visjs/vis-network/issues"
+    "url": "https://github.com/Wolkenritter/vis-network/issues"
   },
   "keywords": [
     "vis",
